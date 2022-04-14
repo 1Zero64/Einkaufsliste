@@ -8,6 +8,9 @@
 **Geburtsort**: Kazachstan, Pavlodar\
 **Wohnort**: Baden-Württemberg
 
+## Bild von mir
+![Bild von mir](picture.png "Bildtitel hier")
+
 ## Studium
 *Studiengang*: Wirtschaftsinformatik B. o. Sc.\
 *Fakultät*: Wirtschaftsinformatik\
