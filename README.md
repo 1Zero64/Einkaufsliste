@@ -67,3 +67,11 @@ class HelloWorld {
     }
 }
 ```
+
+```csharp
+class HelloWorld {
+    public static void main(String[] args) {
+        Console.WriteLine("Ich bin C# Code");
+    }
+}
+```
